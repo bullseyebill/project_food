@@ -1,5 +1,5 @@
 body, html {
-	font-family: 'Open Sans', serif;
+	font-family: 'Rock Salt', cursive;
 	text-rendering: optimizeLegibility !important;
 	-webkit-font-smoothing: antialiased !important;
 	color: #777;
@@ -8,7 +8,7 @@ body, html {
 	height: 100% !important;
 }
 h1, h2, h3, h4 {
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Rock Salt', cursive;
 }
 h2 {
 	font-weight: 400;
@@ -168,7 +168,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	display: table;
 	width: 100%;
 	padding: 0;
-	background: url(../img/intro-bg.jpg) center center no-repeat;
+	background: url(../img/m2.jpg) center center no-repeat;
 	background-color: #e5e5e5;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -179,7 +179,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	background: rgba(0,0,0,0.4);
 }
 .intro h1 {
-	font-family: 'Rochester', cursive;
+	font-family: 'Rock Salt', cursive;
 	color: #fff;
 	font-size: 10em;
 	font-weight: 400;
