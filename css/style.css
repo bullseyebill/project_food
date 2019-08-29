@@ -225,6 +225,9 @@ header .intro-text {
 	line-height: 24px;
 	margin: 15px 0 30px;
 }
+#turtle {
+	position: inherit;
+}
 /* About Section */
 #about {
 	padding: 0;
